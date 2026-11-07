@@ -16,6 +16,7 @@
         <language>fr_FR</language>
     </languages>
     <version>2.1.0</version>
+    <version>3.0.0</version>
     <authors>
         <author>
             <name>Vincent Lopes-Vicente</name>
@@ -26,5 +27,6 @@
     <required>
     </required>
     <thelia>2.5.0</thelia>
+    <thelia>3.0.0</thelia>
     <stability>other</stability>
 </module>
