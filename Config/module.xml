@@ -15,11 +15,8 @@
         <language>en_US</language>
         <language>fr_FR</language>
     </languages>
-<<<<<<< Updated upstream
-    <version>2.1.0</version>
-=======
     <version>3.0.0</version>
->>>>>>> Stashed changes
+
     <authors>
         <author>
             <name>Vincent Lopes-Vicente</name>
@@ -29,10 +26,8 @@
     <type>classic</type>
     <required>
     </required>
-<<<<<<< Updated upstream
-    <thelia>2.5.0</thelia>
-=======
+
     <thelia>3.0.0</thelia>
->>>>>>> Stashed changes
+
     <stability>other</stability>
 </module>
